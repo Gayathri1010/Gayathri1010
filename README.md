@@ -33,8 +33,6 @@ I am a Test Automation Engineer with a strong background in automation tools, te
 ### Database
 - MySQL
 
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
