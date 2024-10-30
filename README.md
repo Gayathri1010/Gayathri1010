@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Gayathri Sivaraman</h1>
-<h3 align="center">A passionate Test Automation Engineer from India</h3>
 
 ## About Me
 I am a Test Automation Engineer with a strong background in automation tools, testing methodologies, and development frameworks.
@@ -15,6 +14,25 @@ I am a Test Automation Engineer with a strong background in automation tools, te
 - 📫 How to reach me **gayathri.sivaraman@outlook.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/gasiva](www.linkedin.com/in/gasiva)
+
+- 
+## Skills
+
+### Automation Tools
+- Selenium, TestNG, POM, Jenkins, Maven, Git, Postman, REST API, Cucumber, Linux, RestAssured, Docker, Junit, Selenium Grid, Browser Stack
+
+### Testing Methodologies
+- STLC, Manual/UI/Regression/Smoke Testing, Defect Lifecycle, Agile, API Testing, BDD
+
+### Front-end
+- Angular, JavaScript, HTML, CSS, Bootstrap
+
+### Back-end
+- Spring Boot, Core Java
+
+### Database
+- MySQL
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
