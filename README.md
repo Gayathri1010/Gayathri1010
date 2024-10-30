@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gayathri Sivaraman</h1>
 <h3 align="center">A passionate Test Automation Engineer from India</h3>
 
+## About Me
+I am a Test Automation Engineer with a strong background in automation tools, testing methodologies, and development frameworks.
+
 - 🔭 I’m currently working on **Selenium, Java, TestNG Framework, Extent Repots, s**
 
 - 🌱 I’m currently learning **Advance Design Patterns, Playwright, AI for QA**
