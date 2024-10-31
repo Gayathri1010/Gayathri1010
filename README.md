@@ -15,7 +15,6 @@ I am a Test Automation Engineer with a strong background in automation tools, te
 
 - 📄 Know about my experiences [www.linkedin.com/in/gasiva](www.linkedin.com/in/gasiva)
 
-- 
 ## Skills
 
 ### Automation Tools
